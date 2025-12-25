@@ -1,0 +1,27 @@
+# Python编译文件
+*.pyc
+__pycache__/
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 日志文件
+*.log
+logs/
+
+# IDE配置文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 数据文件（可选，根据需要保留或忽略）
+# 原始数据文件
+历年数字化转型指数汇总.xlsx
+最终数据dta格式-上市公司年度行业代码至2021.xlsx
+
+# 分析中间文件
+data_info.txt
